@@ -1,0 +1,24 @@
+{
+  "name": "typescript",
+  "version": "1.0.0",
+  "description": "> We need to install typescript and ts-node in order to run the ts files.",
+  "main": "index.js",
+  "scripts": {
+    "start": "ts-node 8.classes.ts"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zainsadaqat/typescript.git"
+  },
+  "keywords": [],
+  "author": "Zain Sadaqat",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zainsadaqat/typescript/issues"
+  },
+  "homepage": "https://github.com/zainsadaqat/typescript#readme",
+  "dependencies": {
+    "ts-node": "^10.4.0",
+    "typescript": "^4.5.2"
+  }
+}
