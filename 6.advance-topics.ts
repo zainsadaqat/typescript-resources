@@ -4,7 +4,7 @@ unionType = false;
 
 let unionType2: null | undefined = null;
 
-const array: (string | number | boolean | {})[] = [
+const array: (string | number | boolean | {} | null | undefined)[] = [
   '',
   0,
   false,
