@@ -1,5 +1,5 @@
 # Typescript
-
+## Things to learn
 > We need to install typescript and ts-node in order to run the ts files.
 
 _Create package.json file_
