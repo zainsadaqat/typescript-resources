@@ -1,6 +1,7 @@
 # Typescript
 
 ## Things to learn
+- TypeScript Fundamentals
 - React with TypeScript
 - Redux with TypeScript
 > We need to install typescript and ts-node in order to run the ts files.
