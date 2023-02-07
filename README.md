@@ -1,6 +1,6 @@
 # Typescript
 
-# Things to learn
+## Things to learn
 - TypeScript Fundamentals
 - React with TypeScript
 - Redux with TypeScript
