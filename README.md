@@ -1,4 +1,4 @@
-# Typescript
+# Learning Typescript
 
 ## Things to learn
 - TypeScript Fundamentals
