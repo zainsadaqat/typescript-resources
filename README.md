@@ -9,7 +9,7 @@
 
 > We need to install typescript and ts-node in order to run the ts files.
 
-### Steps
+### Steps to start using typescript in a plain project
 
 _Create package.json file_
 `npm init -y`
