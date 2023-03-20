@@ -1,5 +1,9 @@
 # Learning Typescript
 
+- Open source programming language by Microsoft
+- Typed superset of JavaScript
+- Compiles down to plain JavaScript
+
 ## Things to learn about TypeScript
 - TypeScript Fundamentals
 - React with TypeScript
