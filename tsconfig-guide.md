@@ -44,3 +44,18 @@ lib option is used to specify what default objects and features typescript shoul
 
 ## 4. AllowJS
 It allows javascript files to be compiled by typescript `allowJ: true`
+
+## 5. noImplicitAny
+If set to true, it'll throw an error if anything contains a data type of any.
+
+## 6. strictNullCheck
+If set to true, it'll throw an error. if an element might be null. A value can be null
+
+## 7. noUnusedLocals
+If set to true, it'll throw an error if there's any unused local variable but won't throw any error for the global variable.
+
+## 8. noUnusedParameters
+If set to true, it'll throw an error if there's any unused parameter in a function.
+
+## 9. noImplicitReturns
+If set to true, it'll throw an error if there's any function implicitly returning somthing. Always try to set a return value of a function.
