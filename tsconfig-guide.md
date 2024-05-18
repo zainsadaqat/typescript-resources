@@ -1,4 +1,5 @@
 # tsconfig.json guide
+Here in this guide, Only most commonly used typescript configuration settings have been discussed.
 
 ## 1. Including and Excluding Files and Folders
 After the nested curly brace and before the last curly brace:
@@ -28,3 +29,18 @@ Include a file that you want to compile
 ```
 "files": [file-name.ts]
 ```
+
+## 2. Target
+it's used to target the JavaScript version it will convert into
+```
+"target": "es5" // old version where we don't have let, const, etc
+```
+```
+"target": "es6" // Where we do have access to let and const and other most commonly used features
+```
+
+## 3. Lib
+lib option is used to specify what default objects and features typescript should know
+
+## 4. AllowJS
+It allows javascript files to be compiled by typescript `allowJ: true`
