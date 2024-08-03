@@ -1,6 +1,6 @@
 # Learning Typescript
  
-- Open source programming language by Microsoft
+- Open source programming language by Microsoft 
 - Typed superset of JavaScript
 - Compiles down to plain JavaScript
 
