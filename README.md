@@ -4,7 +4,7 @@
 - Typed superset of JavaScript    
 - Compiles down to plain JavaScript   
 
-## Things to learn about TypeScript
+##  Things to learn about TypeScript
 - TypeScript Fundamentals
 - React with TypeScript
 - Redux with TypeScript
