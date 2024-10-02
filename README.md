@@ -9,7 +9,7 @@
 - React with TypeScript
 - Redux with TypeScript
 - NextJS with TypeScript
-- Data Structures with TypeScript
+- Data Structures with TypeScript 
 
 > We need to install typescript and ts-node in order to run the ts files.
 
