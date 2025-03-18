@@ -1,4 +1,4 @@
-# Common Errors in TypeScript 
+# Common Errors in TypeScript  
 
 ## Binding XYZ has implicitly any type
 
